@@ -1,0 +1,3 @@
+0 oily
+1 normal
+2 dry
