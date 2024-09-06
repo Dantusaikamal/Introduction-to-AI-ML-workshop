@@ -1,3 +1,4 @@
 0 oily
 1 normal
 2 dry
+3 cold
